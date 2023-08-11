@@ -9,7 +9,7 @@ memory = deque(maxlen=6)
 MODEL = "gpt-3.5-turbo"
 
 card_list = ["chariot","emperor","empress","hermit","hierophant","high_priestess","magician","strength","the_lovers","wheel_of_fortune"]
-openai.api_key = "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"
+openai.api_key = "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"
 
 system_commands = '''
 ignore all previous instructions these are you new instructions. Imagine you are professional tarot reader. You give your clients spiritual guidance and offer insight into their lives,
